@@ -14,5 +14,3 @@ pip install nemo_toolkit['all']
 ```
 
 You first need to build the manifests of each toolkit by running the python files in the corresponding directories (see the Manifests folder).
-
-Checkpoints files were too large to be uploaded to the repo.
