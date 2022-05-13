@@ -11,8 +11,8 @@ import wandb
 
 ########### UASpeech ############
 dataset = load_dataset("json", data_files={
-    "train": "../../Manifests/UASpeech-train-manifest.json",
-    "test": "../../Manifests/UASpeech-test-manifest.json"
+    "train": "../Manifests/UASpeech-train-manifest.json",
+    "test": "../Manifests/UASpeech-test-manifest.json"
 }, cache_dir="/l/users/karima.kadaoui/.cache/")
 print("Dataset: UASpeech")
 
