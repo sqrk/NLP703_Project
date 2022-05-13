@@ -14,3 +14,5 @@ pip install nemo_toolkit['all']
 ```
 
 You first need to build the manifests of each toolkit by running the python files in the corresponding directories (see the Manifests folder).
+
+The report can be found [here](https://github.com/sqrk/NLP703_Project/blob/main/Report.pdf).
