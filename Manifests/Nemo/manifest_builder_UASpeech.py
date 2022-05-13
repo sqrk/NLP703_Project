@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 27 15:44:52 2021
-
-@author: u20020048
-"""
-
 import json 
 import librosa
 import os 
